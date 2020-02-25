@@ -1,2 +1,3 @@
 # hello_world
-Just another repository
+Hi Humans!
+WeiGuangfan here! I like python and learning!
